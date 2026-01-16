@@ -4,7 +4,7 @@
 
 KalaKriti AI is an intelligent creative partner and marketplace designed to empower traditional Indian artisans and global customers. By leveraging the power of **Google's Gemini 2.5 models**, we facilitate co-creation, safeguard cultural heritage, and provide actionable business intelligence to artisans.
 
-![KalaKriti AI Banner](https://images.unsplash.com/photo-1598556836367-54b9d0941913?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3)
+
 
 ## 🌟 Key Features
 
